@@ -110,3 +110,4 @@ venv.bak/
 .vscode/
 
 config.ini
+.env.sample
