@@ -1,6 +1,11 @@
 # Streaming-Linebot
 
-A Line bot that providesdramas, movies, animation based on a finite state machine(FSM).
+<div align="center">
+
+<img src="./img/main_drama.jpg" class="div" width="30%"  >
+
+</div>
+A Line bot that provides dramas, movies, animation based on a finite state machine(FSM).
 
 ## Finite State Machine
 ![fsm](./fsm.png)
