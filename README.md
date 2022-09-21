@@ -27,7 +27,7 @@ A Line bot that provides dramas, movies, animation based on a finite state machi
 
 #### Popular dramas from different countries
 <img src="./img/drama1.jpg" class="div" width="30%"> <img src="./img/drama2.jpg" class="div" width="30%"> <br> 
-<img src="./img/drama_korea.jpg" class="div" width="30%">    <img src="./img/drama_usa.jpg" class="div" width="30%">
+<img src="./img/drama_korea.jpg" class="div" width="30%"> <img src="./img/drama_usa.jpg" class="div" width="30%"> <img src="./img/drama_china.jpg" class="div" width="30%">
 
 ### Movies
 #### Hot taiwan movies
