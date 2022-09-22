@@ -62,12 +62,16 @@
 $ pip install -r requirements.txt
 ```
 
+```
+$ python3 app.py
+```
+
 * pygraphviz (For visualizing Finite State Machine)
     * [Setup pygraphviz on Ubuntu](http://www.jianshu.com/p/a3da7ecc5303)
 	* [Note: macOS Install error](https://github.com/pygraphviz/pygraphviz/issues/100)
 
 
-#### Secret Data
+### Secret Data
 Set `Channel_Access_Token`, `Channel_Secret`, `User_id`
 `LINE_CHANNEL_SECRET` and `LINE_CHANNEL_ACCESS_TOKEN` **MUST** be set to proper values.
 Otherwise, you might not be able to run your code.
