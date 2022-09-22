@@ -5,9 +5,13 @@
 <img src="./img/main_drama.jpg" class="div" width="30%"  >
 
 </div>
-A Line bot that provides dramas, movies, animation based on a finite state machine(FSM).
+
+- A Line bot that provides dramas, movies, animation based on a finite state machine(FSM). Webscrapping dramas from [douban](https://www.douban.com/), animation from [動畫瘋](https://ani.gamer.com.tw/), movies from [yahoo movies](https://movies.yahoo.com.tw/).  
 
 ## Finite State Machine
+- The initial state is `user`
+- Users can change the state by text button
+
 ![fsm](./fsm.png)
 
 
@@ -15,8 +19,9 @@ A Line bot that provides dramas, movies, animation based on a finite state machi
 - There are 3 main features : dramas, movies, animation.
 - This bot will provide top-10 the most popular and the newest dramas, movies, animation.
 - Users can also search by the name or the types through line text button.
-### Home
 
+
+### Home
 
 <img src="./img/main_drama.jpg" class="div" width="30%">    <img src="./img/main_animation.jpg" class="div" width="30%">   <img src="./img/main_movie.jpg" class="div" width="30%">
 
