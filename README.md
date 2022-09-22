@@ -7,7 +7,7 @@
 
 <p align=center>
     <a target="_blank" href="#" title="language count"><img src="https://img.shields.io/github/languages/count/davidzwei/Streaming-Linebot"></a>
-    <a target="_blank" href="#" title="top language"><img src="https://img.shields.io/github/languages/top/davidzwei/Streaming-Linebot?color=orange"></a>
+    <a target="_blank" href="#" title="top language"><img src="https://img.shields.io/github/languages/top/davidzwei/Streaming-Linebot"></a>
     <a target="_blank" href="#" title="repo size"><img src="https://img.shields.io/github/repo-size/davidzwei/Streaming-Linebot"></a>
     <a target="_blank" href="http://makeapullrequest.com" title="PRs Welcome"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"></a>
 </p>
