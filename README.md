@@ -4,6 +4,14 @@
 
 <img src="./img/main_drama.jpg" class="div" width="30%"  >
 
+
+<p align=center>
+    <a target="_blank" href="#" title="language count"><img src="https://img.shields.io/github/languages/count/davidzwei/Streaming-Linebot"></a>
+    <a target="_blank" href="#" title="top language"><img src="https://img.shields.io/github/languages/top/davidzwei/Streaming-Linebot?color=orange"></a>
+    <a target="_blank" href="#" title="repo size"><img src="https://img.shields.io/github/repo-size/davidzwei/Streaming-Linebot"></a>
+    <a target="_blank" href="http://makeapullrequest.com" title="PRs Welcome"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"></a>
+</p>
+
 </div>
 
 - A Line bot that provides dramas, movies, animation based on a finite state machine(FSM). Webscrapping dramas from [douban](https://www.douban.com/), animation from [動畫瘋](https://ani.gamer.com.tw/), movies from [yahoo movies](https://movies.yahoo.com.tw/).  
